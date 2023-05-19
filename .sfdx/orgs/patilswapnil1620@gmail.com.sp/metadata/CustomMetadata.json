@@ -1,0 +1,70 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055g00000BWzTPAA1",
+      "createdByName": "Swapnil Patil",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "customMetadata/CaseType.Practice1_2.md",
+      "fullName": "CaseType.Practice1_2",
+      "id": "m005g000002eUV9AAM",
+      "lastModifiedById": "0055g00000BWzTPAA1",
+      "lastModifiedByName": "Swapnil Patil",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomMetadata"
+    },
+    {
+      "createdById": "0055g00000BWzTPAA1",
+      "createdByName": "Swapnil Patil",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "customMetadata/CountryTest.India.md",
+      "fullName": "CountryTest.India",
+      "id": "m015g0000017EyZAAU",
+      "lastModifiedById": "0055g00000BWzTPAA1",
+      "lastModifiedByName": "Swapnil Patil",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomMetadata"
+    },
+    {
+      "createdById": "0055g00000BWzTPAA1",
+      "createdByName": "Swapnil Patil",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "customMetadata/CountryTest.Brazil.md",
+      "fullName": "CountryTest.Brazil",
+      "id": "m015g0000017EyeAAE",
+      "lastModifiedById": "0055g00000BWzTPAA1",
+      "lastModifiedByName": "Swapnil Patil",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomMetadata"
+    },
+    {
+      "createdById": "0055g00000BWzTPAA1",
+      "createdByName": "Swapnil Patil",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "customMetadata/CaseType.Practice1_1.md",
+      "fullName": "CaseType.Practice1_1",
+      "id": "m005g000002eUUzAAM",
+      "lastModifiedById": "0055g00000BWzTPAA1",
+      "lastModifiedByName": "Swapnil Patil",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomMetadata"
+    },
+    {
+      "createdById": "0055g00000BWzTPAA1",
+      "createdByName": "Swapnil Patil",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "customMetadata/CaseType.Practice_2.md",
+      "fullName": "CaseType.Practice_2",
+      "id": "m005g000002eUUuAAM",
+      "lastModifiedById": "0055g00000BWzTPAA1",
+      "lastModifiedByName": "Swapnil Patil",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomMetadata"
+    }
+  ]
+}
